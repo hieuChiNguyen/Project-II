@@ -29,6 +29,6 @@
       - Quản lý kho hàng (sản phẩm, số lượng nhập, bán, tồn kho)
       
 ### Tuần 3-4: Vẽ biểu đồ usecase
-    * Usecase tổng quan
-    * Phân rã usecase
-    * Đặc tả use case
+ * Usecase tổng quan
+ * Phân rã usecase
+ * Đặc tả use case
