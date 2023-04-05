@@ -27,7 +27,9 @@
       - Quản lý thông tin cơ bản của khách hàng
       - Quản lý doanh thu 
       - Quản lý kho hàng (sản phẩm, số lượng nhập, bán, tồn kho)
-      
+  
+  * Các công cụ, framework dự định sử dụng để xây dựng website:
+  
 ### Tuần 3-4: Vẽ biểu đồ usecase
  * Usecase tổng quan
  * Phân rã usecase
