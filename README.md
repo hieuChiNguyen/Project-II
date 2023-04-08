@@ -5,7 +5,7 @@
   * Phân tích nghiệp vụ:
     + Để thiết kế được một hệ thống hỗ trợ mua bán giày, trước tiên ta cần biết được các luồng sự kiện có thể diễn ra trong hệ thống. 
   Hệ thống gồm nhiều quy trình nghiệp vụ như: Quy trình sử dụng của người mua, quy trình sử dụng của người bán, quy trình sử dụng của người quản lý, …
-    + Sơ đồ mô tả các quy trình sử dụng của từng đối tượng nêu trên: https://app.diagrams.net/#G13JRD5gPvJ-i-0dkMi2TNgQvDB4fgLX2_
+    + Sơ đồ mô tả các quy trình sử dụng của từng đối tượng nêu trên: https://drive.google.com/file/d/13JRD5gPvJ-i-0dkMi2TNgQvDB4fgLX2_/view?usp=sharing
     
   * Các tác nhân của hệ thống:
     + Khách hàng (người mua): Là những người dùng thường, chưa có tài khoản, đăng ký thành viên để có tài khoản đăng nhập vào hệ thống, khi đó họ sẽ có thể xem sản       phẩm, đặt hàng trên hệ thống
