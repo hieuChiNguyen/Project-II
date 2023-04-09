@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "project-ii",
+  "version": "1.0.0",
+  "description": "project nodejs",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieuChiNguyen/Project-II.git"
+  },
+  "keywords": [
+    "project",
+    "node",
+    "nodejs"
+  ],
+  "author": "Chi Hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieuChiNguyen/Project-II/issues"
+  },
+  "homepage": "https://github.com/hieuChiNguyen/Project-II#readme"
+}
