@@ -8,7 +8,7 @@
     + Sơ đồ mô tả các quy trình sử dụng của từng đối tượng nêu trên: https://drive.google.com/file/d/13JRD5gPvJ-i-0dkMi2TNgQvDB4fgLX2_/view?usp=sharing
     
   * Các tác nhân của hệ thống:
-    + Khách hàng (người mua): Là những người dùng thường, chưa có tài khoản, đăng ký thành viên để có tài khoản đăng nhập vào hệ thống, khi đó họ sẽ có thể xem sản       phẩm, đặt hàng trên hệ thống
+    + Khách hàng (người mua): Là những người dùng thường, chưa có tài khoản, đăng ký thành viên để có tài khoản đăng nhập vào hệ thống, khi đó họ sẽ có thể xem sản phẩm, thêm sản phẩm vào giỏ hàng, đặt hàng trên hệ thống
     + Nhân viên (người bán): Là người đăng nhập với vai trò nhân viên, có các chức năng nổi bật như: đăng bán sản phẩm, xử lý đơn hàng
     + Quản lý: Là người đăng nhập với vai trò quản lý, thường liên quan đến việc quản lý doanh thu, kho hàng, thông tin khách hàng 
     
