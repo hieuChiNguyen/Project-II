@@ -29,7 +29,6 @@
     + Tiếp nhận feedback khách hàng và xử lý phản hồi
     + Đăng bán sản phẩm
     + Theo dõi các đơn hàng (hoàn tất, hoàn trả)
-    + Gửi thông báo đến các khách hàng
   
   * Các tính năng cơ bản của website đối với admin (người quản lý):
     + Đăng nhập tài khoản (vai trò admin)
