@@ -37,6 +37,7 @@
       - Quản lý thông tin cơ bản của khách hàng
       - Quản lý doanh thu 
       - Quản lý kho hàng (sản phẩm, số lượng nhập, bán, tồn kho)
+      - Quản lý khuyến mãi, voucher
       
   
   * Các công cụ, framework dự định sử dụng để xây dựng website:
